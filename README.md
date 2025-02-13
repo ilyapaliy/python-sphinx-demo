@@ -8,6 +8,7 @@ In source index.rst
 ```
 [1](https://habr.com/ru/articles/750968/)
 [2](https://habr.com/ru/companies/netologyru/articles/815563/)
+[3](https://www.youtube.com/watch?v=S3pkpo5NqJY)
 ```bash
 mkdir docs
 cd docs
