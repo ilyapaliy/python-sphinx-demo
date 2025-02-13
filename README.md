@@ -1,3 +1,24 @@
+In source index.rst
+```reST
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   modules
+```
+[1](https://habr.com/ru/articles/750968/)
+[2](https://habr.com/ru/companies/netologyru/articles/815563/)
+```bash
+mkdir docs
+cd docs
+sphinx-quickstart
+
+sphinx-apidoc -f -o source/ ../mypackage/
+make html
+cd build/html
+reload
+```
+
 # Python-Sphinx-Demo
 A demonstration on how to automatically create documentation.
 
