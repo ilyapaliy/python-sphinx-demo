@@ -2,6 +2,6 @@ cat module
 ==========
 
 .. automodule:: cat
-    :members:
-    :undoc-members:
-    :show-inheritance:
+   :members:
+   :undoc-members:
+   :show-inheritance:

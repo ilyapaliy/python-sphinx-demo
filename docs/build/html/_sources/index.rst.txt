@@ -1,29 +1,19 @@
-.. Python-Sphinx-Demo documentation master file, created by
-   sphinx-quickstart on Tue Jan 29 22:00:01 2019.
+.. Test of Sphinx documentation master file, created by
+   sphinx-quickstart on Thu Feb 13 22:02:32 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python-Sphinx-Demo's documentation!
-==============================================
+Test of Sphinx documentation
+============================
 
-WOOWOWOWOOW
+Add your content using ``reStructuredText`` syntax. See the
+`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+documentation for details.
 
-I AM MAKING SOME EDITS!
-
-No nulla commune omnesque sit. Maluisset consulatu has et, affert ignota duo ex. Quot accusamus eam id. Mei at labore feugiat insolens, cu his postea impedit explicari, vis ad equidem erroribus. Eu pro mucius neglegentur.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-        Licencing information <licence>
-        Need help <help>
-        Modules <modules>
+   modules
 
-        
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
