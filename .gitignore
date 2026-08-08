@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+venv/
+.venv/
+env/
+
+# Sphinx build output
+docs/_build/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Editors / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
